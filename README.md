@@ -34,8 +34,17 @@ I'm a passionate B.Tech student in Artificial Intelligence and Data Science with
 - ✅ Developed fully responsive websites design
 
 ---
+ GitHub Status
 
-### 💬 Let's Connect
+![Dharani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharanidharu&show_icons=true&theme=default)
+
+---
+
+GitHub Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharanidharu&theme=default)
+
+
 
 - 🔗 [LinkedIn](https://rb.gy/ta2lti)
 - 📧 dharaniveerappan18@gmail.com
