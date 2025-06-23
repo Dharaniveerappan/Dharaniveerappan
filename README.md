@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**Dharaniveerappan/Dharaniveerappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Dharani V
 
-Here are some ideas to get you started:
+I'm a passionate B.Tech student in Artificial Intelligence and Data Science with interests 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 UI/UX Design
+- 📊 Data Analytics
+
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** Java, Python
+- **Web Tech:** HTML, CSS, JavaScript, Tailwind CSS
+- **Tools & Frameworks:** Figma, Adobe Xd,Photoshop,Uzard, Git, GitHub
+- **Database:** MySQL
+- **Data Analysis:** Data Visualization,PowerBi
+
+---
+
+### 💼 Notable Projects
+
+-  **Art Gallery Management System** – SQL-based database project
+-  **Coffee Shop Website UI** – Built with Figma
+-  **Construction Company**-figma
+-  **WizardX Tech Company Website Design**-Figma
+-  **Cake Shop Landing Page**-Figma
+---
+
+### 🏆 Achievements
+
+- ✅ Participated in College paper presentation
+- ✅ Built 3+ UI Design Projects
+- ✅ Developed fully responsive websites design
+
+---
+
+### 💬 Let's Connect
+
+- 🔗 [LinkedIn](https://rb.gy/ta2lti)
+- 📧 dharaniveerappan18@gmail.com
